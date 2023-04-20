@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React & more
+          Turazza!!!!!!!
         </a>
       </header>
     </div>
